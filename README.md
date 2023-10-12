@@ -15,6 +15,8 @@ This repository contains the implementation of Slowly Changing Dimension (SCD) T
 3. **SCD Type 2 Implementation**
     - `Project 1`: The core pipeline that implements SCD Type 2, ensuring that historical data is preserved while accommodating new and updated records.
 
+- ** both project 1 and project work flow data could be viewed in HTML** 
+
 ## Getting Started
 
 ### Prerequisites
